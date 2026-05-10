@@ -34,7 +34,11 @@
 <br>this comand is conmits the changes after we ran "git status" it will show the branch name and noting to commit  
 
 <br><b>6) now remember this is commited but now in Github repo "CSS-Learing" <b>
--
+<br>- to push this code in Reop we have a cmd "git push orinin main" |
+<br>- this code pushes the files in origin named ripo at main branch
+<br>- after refresh we can see the  index.hrml and style.css in github
+
+<br><b>7)we will do same for Readme.md file is is now untracked<b>
 
 
 
